@@ -9,9 +9,7 @@ Tenho conhecimentos em:
 - jQuery
 - Javascript
 
-Atualmente estou aprendendo React.js para conseguir aumentar minhas chances da tão sonhada vaga no mercado de trabalho.
-
-Fique à vontade para entrar em contato comigo em:
+Fique à vontade para entrar em contato comigo!
 - Email: fecef.figueiredo@gmail.com
 - cel: +55 (11) 9-4545-5167
 
@@ -30,9 +28,7 @@ I have knowledge in:
 - jQuery
 - Javascript
 
-By now, I'm learning React.js, so I can increase my chances of getting my first Job as a web developer.
-
-Be welcome to get in touch with
+Feel free to send me a hello!
 - Email: fecef.figueiredo@gmail.com
 - cel: +55 (11) 9-4545-5167
 

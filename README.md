@@ -1,7 +1,5 @@
 Olá! Meu nome é Felipe César.
 
-Estou bem próximo da formação no curso de Desenvolvedor Web Full Stack do SENAI.
-
 Tenho conhecimentos em:
 - HTML5
 - CSS3
@@ -18,8 +16,6 @@ Obrigado! :)
 ---------------------------------------------------------------------------------------------------------------------------
 
 Hi! My name is Felipe César.
-
-I'm very close to graduate at SENAI's Full Stack Web Developer course.
 
 I have knowledge in:
 - HTML5

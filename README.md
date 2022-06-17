@@ -11,7 +11,7 @@ Obrigado! 🙂
 
 Hi! My name is **Felipe César**, a **Web Developer**.
 
-Feel free to send me a hello!
+Feel free to send me a message!
 - Email: fecef.figueiredo@gmail.com
 - LinkedIn: https://www.linkedin.com/in/fecef/
 - cel: +55 (11) 9-4545-5167

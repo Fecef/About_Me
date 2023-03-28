@@ -1,4 +1,4 @@
-Olá! Meu nome é **Felipe César**, um **Desenvolvedor Web**.
+Olá! Meu nome é **Felipe César**, sou um **Desenvolvedor Web**.
 
 Fique à vontade para entrar em contato comigo!
 - Email: fecef.figueiredo@gmail.com
@@ -9,7 +9,7 @@ Obrigado! 🙂
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-Hi! My name is **Felipe César**, a **Web Developer**.
+Hi! My name is **Felipe César**, I'm a **Web Developer**.
 
 Feel free to send me a message!
 - Email: fecef.figueiredo@gmail.com
